@@ -21,6 +21,7 @@ public class HelloWorld {
 		System.out.println("_____________________________________________________");
 		System.out.println("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx master..");
 		String two = "2master";
+		String one = "1yz";
 	}
 
 }
