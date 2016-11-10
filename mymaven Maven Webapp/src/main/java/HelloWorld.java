@@ -22,8 +22,8 @@ public class HelloWorld {
 		System.out.println("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx master..");
 		String two = "2master";
 		String one = "1yz";
-		String two = "2master222222222222222222222222";
-		String one = "1yz222222222222";
+		String two2 = "2master222222222222222222222222";
+		String one2 = "1yz222222222222";
 	}
 
 }
