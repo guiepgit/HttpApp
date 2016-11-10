@@ -20,6 +20,7 @@ public class HelloWorld {
 		
 		System.out.println("_____________________________________________________");
 		System.out.println("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx master..");
+		String one = "1yz";
 	}
 
 }
